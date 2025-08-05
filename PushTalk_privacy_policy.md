@@ -87,7 +87,7 @@ Our app is **not intended for children under 13**. We do not knowingly collect p
 
 ## 8. Changes to This Policy
 
-We may update this Privacy Policy from time to time. Changes will be posted on our [GitHub repository](https://github.com/YOUR_USERNAME/YOUR_REPO) and reflected with a new "Effective Date".
+We may update this Privacy Policy from time to time. Changes will be posted on our [GitHub repository](https://github.com/CyberPushkar/PushTalk_privacy_policy) and reflected with a new "Effective Date".
 
 ---
 
